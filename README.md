@@ -1,0 +1,2 @@
+# Final-Project--Segmentation_of_customers_for_the_online_retail_store
+The "Segmentation of Customers for the Online Retail Store" project aims to categorize customers into distinct groups based on their purchasing behavior, to enhance the store's marketing strategies. By understanding customer behavior and preferences, the store can tailor its marketing efforts to target specific segments more effectively.
