@@ -12,4 +12,12 @@ Low Spend, High Income (Cluster 4): These individuals could be encouraged to spe
 
 Conservative Spenders (Cluster 3): Strategies to engage this group might include promotions on necessity items or more affordable luxury goods.
 
+Conclusion
+
+ ->Related to customer segmentation and targeting. By analyzing customer behavior in terms of their recency of purchase, frequency of purchase, and monetary value of purchase, businesses can identify and target high-value customers, personalize marketing campaigns, and improve customer retention.
+
+ ->Different clustering algorithms were applied to the dataset, including clustering on Recency, Frequency, and Monetary (RFM) with 2 optimal clusters found.
+
+ ->DBScan method performing well on our data set with optimal number of culuster is two on the features using Recency Monetary
+
 
